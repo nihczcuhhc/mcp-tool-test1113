@@ -1,0 +1,3 @@
+这是一个测试文件，用于演示 get_file_contents 工具的使用。
+Hello World!
+测试成功！
